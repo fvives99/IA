@@ -1,0 +1,84 @@
+Do you want to auto fill? n
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+Player 1 is placing piece now
+Row? 0
+Col? 0
+1 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+Player 2 is placing piece now
+Row? 0
+Col? 1
+1 2 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+Player 1 is placing piece now
+Row? 1
+Col? 0
+1 2 0 0 0 0 
+1 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+Player 2 is placing piece now
+Row? 1
+Col? 1
+1 2 0 0 0 0 
+1 2 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+Player 1 is placing piece now
+Row? 2
+Col? 1
+1 2 0 0 0 0 
+1 2 0 0 0 0 
+0 1 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+Player 2 is placing piece now
+Row? 2
+Col? 2
+1 2 0 0 0 0 
+1 2 0 0 0 0 
+0 1 2 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+Player 1 is moving piece now
+Src Row? 2
+Src Col? 1
+Dst Row? 3
+Dst Col? 1
+1 2 0 0 0 0 
+1 2 0 0 0 0 
+0 0 2 0 0 0 
+0 1 0 0 0 0 
+0 0 0 0 0 0 
+Player 2 is moving piece now
+Src Row? 2
+Src Col? 2
+Dst Row? 2
+
+Dst Col? 1
+1 2 0 0 0 0 
+1 2 0 0 0 0 
+0 2 0 0 0 0 
+0 1 0 0 0 0 
+0 0 0 0 0 0 
+select a piece of your opponent to capture
+Cap Row? 3
+Cap Col? 1
+1 2 0 0 0 0 
+1 2 0 0 0 0 
+0 2 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+Game over, player 2 wins
